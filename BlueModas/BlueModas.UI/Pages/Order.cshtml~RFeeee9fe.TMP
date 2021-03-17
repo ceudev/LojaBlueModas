@@ -1,0 +1,4 @@
+﻿@page
+@model BlueModas.UI.Pages.OrderModel
+@{
+}

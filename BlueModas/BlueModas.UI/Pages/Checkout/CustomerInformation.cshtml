@@ -1,0 +1,52 @@
+﻿@page
+@model BlueModas.UI.Pages.Checkout.CustomerInformationModel
+@{
+}
+
+
+<div>
+    <form method="post">
+
+        <div>
+            <input asp-for="CustomerInformation.Name" />
+            <span asp-validation-for="CustomerInformation.Name"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.Email" />
+            <span asp-validation-for="CustomerInformation.Email"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.PhoneNumber" />
+            <span asp-validation-for="CustomerInformation.PhoneNumber"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.Address" />
+            <span asp-validation-for="CustomerInformation.Address"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.Neighborhood" />
+            <span asp-validation-for="CustomerInformation.Neighborhood"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.City" />
+            <span asp-validation-for="CustomerInformation.City"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.State" />
+            <span asp-validation-for="CustomerInformation.State"></span>
+        </div>
+
+        <div>
+            <input asp-for="CustomerInformation.ZipCode" />
+            <span asp-validation-for="CustomerInformation.ZipCode"></span>
+        </div>
+
+        <button type="submit">Submit</button>
+    </form>
+</div>

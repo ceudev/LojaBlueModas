@@ -1,0 +1,18 @@
+﻿@model IEnumerable<BlueModas.Application.Cart.GetCart.Response>
+
+@{ 
+
+}
+
+
+<div>
+    <h2>Big Cart Component</h2>
+    @foreach (var product in Model)
+    {
+        <p>@product.Name</p>
+        <p>@product.Price</p>
+        <p>@product.Quantity</p>
+        <p>@product.StockId</p>
+        <hr />
+    }
+</div>

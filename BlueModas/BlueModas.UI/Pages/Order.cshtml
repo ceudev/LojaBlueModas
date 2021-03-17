@@ -1,0 +1,20 @@
+﻿@page "{reference}"
+@model BlueModas.UI.Pages.OrderModel
+@{
+}
+
+
+
+<div>
+    <h1>
+        @Model.Order.OrderRef
+    </h1>
+
+
+    @foreach (var product in Model.Order.Products)
+    {
+        <div>
+            @product.Name - @product.Description - @product.Quantity - @product.Price
+        </div>
+    }
+</div>

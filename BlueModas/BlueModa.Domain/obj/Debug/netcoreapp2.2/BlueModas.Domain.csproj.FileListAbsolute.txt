@@ -1,0 +1,9 @@
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\bin\Debug\netcoreapp2.2\BlueModas.Domain.deps.json
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\bin\Debug\netcoreapp2.2\BlueModas.Domain.dll
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\bin\Debug\netcoreapp2.2\BlueModas.Domain.pdb
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.csprojAssemblyReference.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.AssemblyInfoInputs.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.AssemblyInfo.cs
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.dll
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModa.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.pdb

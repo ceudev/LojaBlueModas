@@ -1,0 +1,15 @@
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.csprojAssemblyReference.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.AssemblyInfoInputs.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.AssemblyInfo.cs
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.csproj.CoreCompileInputs.cache
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.deps.json
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.dll
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.pdb
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Domain.dll
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Domain.pdb
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.csproj.CopyComplete
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.dll
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.pdb
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.runtimeconfig.json
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.runtimeconfig.dev.json
+C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿@page
+@model BlueModas.UI.Pages.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div>
+    @{
+        foreach (var p in Model.Products)
+        {
+            <a asp-page="Product" asp-route-name="@p.Name.Replace(" ", "-")">
+                @p.Name  = @p.Description - @p.Price
+            </a>
+            <br />
+        }
+    }
+</div>
+@await Component.InvokeAsync("Cart")
