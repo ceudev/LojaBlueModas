@@ -6,4 +6,3 @@ C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Domain\obj\Debug\
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.csproj.CoreCompileInputs.cache
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.dll
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.pdb
-C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Domain\obj\Debug\netcoreapp2.2\BlueModas.Domain.csprojAssemblyReference.cache

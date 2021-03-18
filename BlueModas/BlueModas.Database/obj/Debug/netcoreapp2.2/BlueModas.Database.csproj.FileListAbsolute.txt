@@ -12,4 +12,3 @@ C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debu
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.pdb
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.runtimeconfig.json
 C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\bin\Debug\netcoreapp2.2\BlueModas.Database.runtimeconfig.dev.json
-C:\Users\brunoc\Documents\Estudo\BlueModas\BlueModas\BlueModas.Database\obj\Debug\netcoreapp2.2\BlueModas.Database.genruntimeconfig.cache
