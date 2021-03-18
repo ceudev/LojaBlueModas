@@ -4,14 +4,14 @@
     ViewData["Title"] = "Index";
 }
 
-<div class="section">
-    <div class="columns is-multiline is-mobile">
+<div>
+    <div class="columns is-multiline">
         @{
             for (int i = 0; i < 5; i++)
             {
                 foreach (var p in Model.Products)
                 {
-                    <div class="column is-3-desktop is-4-tablet is-6-mobile">
+                    <div class="column is-3-desktop is-6-mobile">
                         <a asp-page="Product" asp-route-name="@p.Name.Replace(" ", "-")">
                             <div class="card">
                                 <div class="card-image">
@@ -39,3 +39,4 @@
         }
     </div>
 </div>
+@await Component.InvokeAsync("Cart")

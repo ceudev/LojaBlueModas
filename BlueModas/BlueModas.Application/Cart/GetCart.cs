@@ -25,6 +25,7 @@ namespace BlueModas.Application.Cart
         {
             public string Name { get; set; }
             public string Price { get; set; }
+            public decimal RealPrice { get; set; }
             public int Quantity { get; set; }
 
             public int StockId { get; set; }
@@ -47,6 +48,7 @@ namespace BlueModas.Application.Cart
                 {
                     Name = x.Product.Name,
                     Price = $"R${x.Product.Price.ToString("N2")}",
+                    RealPrice = x.Product.Price,
                     StockId = x.Id,
                     Quantity = cartList.FirstOrDefault(y => y.StockId == x.Id).Quantity
                 })
